@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 data = pd.read_csv(
-    r"C:\Users\sutha\OneDrive\Documents\python code\codealpha_tasks\codealpha_IrisFlower\Iris.csv"
+    r"Enter your .csv file location"
 )
 
 print(data.head())
