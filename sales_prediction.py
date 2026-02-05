@@ -9,7 +9,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 # Load dataset
 data = pd.read_csv(
-    r"C:\Users\sutha\OneDrive\Documents\python code\codealpha_tasks\codealpha_sales_prediction\Advertising.csv"
+    r"Enter your .csv file location "
 )
 
 # Check data
@@ -43,4 +43,5 @@ plt.xlabel("TV Advertising Spend")
 plt.ylabel("Sales")
 plt.title("Impact of Advertising Spend on Sales")
 plt.show()
+
 
