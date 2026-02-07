@@ -1,0 +1,27 @@
+ 🚀 Project Overview
+
+Companies invest money in advertisements across multiple platforms.  
+This project analyzes how those investments influence sales and builds a machine learning regression model to predict sales.
+
+
+
+ 🛠️ Technologies Used
+
+- Python 🐍  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+
+
+⚙️ Project Workflow
+
+1. Load the dataset using Pandas  
+2. Check for missing values  
+3. Select features and target variable  
+4. Split data into training and testing sets  
+5. Train a **Linear Regression model**  
+6. Make predictions on test data  
+7. Evaluate the model using performance metrics  
+8. Visualize the relationship between advertising spend and sales 
