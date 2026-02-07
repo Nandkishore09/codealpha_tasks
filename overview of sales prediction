@@ -1,11 +1,16 @@
- 🚀 Project Overview
+📊 Sales Prediction using Linear Regression
+
+This project demonstrates how advertising expenditure affects product sales using Linear Regression.  
+The model predicts sales based on spending on TV, Radio, and Newspaper advertisements. 
+
+🚀 Project Overview
 
 Companies invest money in advertisements across multiple platforms.  
 This project analyzes how those investments influence sales and builds a machine learning regression model to predict sales.
 
 
 
- 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Python 🐍  
 - Pandas  
