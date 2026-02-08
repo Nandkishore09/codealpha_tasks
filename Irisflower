@@ -1,3 +1,37 @@
 Iris Flower Classification using Logistic Regression
 
 This project implements a machine learning classification model using Logistic Regression to predict the species of Iris flowers based on their physical features.
+
+Libraries Used
+
+1.pandas
+
+2.numpy
+
+3.matplotlib
+
+4.seaborn
+
+5.scikit-learn
+
+⚙️ Workflow
+
+1.Load the dataset using pandas
+
+2.Check for missing values and dataset shape
+
+3.Encode the target variable using LabelEncoder
+
+4.Split the data into training and testing sets
+
+5.Train a Logistic Regression model
+
+6.Evaluate the model using:
+
+    -Accuracy Score
+
+    -Classification Report
+
+    -Confusion Matrix
+
+7.Visualize the confusion matrix using a heatmap
