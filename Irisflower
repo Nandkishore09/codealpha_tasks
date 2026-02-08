@@ -1,1 +1,3 @@
+Iris Flower Classification using Logistic Regression
 
+This project implements a machine learning classification model using Logistic Regression to predict the species of Iris flowers based on their physical features.
