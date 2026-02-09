@@ -4,34 +4,34 @@ This project implements a machine learning classification model using Logistic R
 
 Libraries Used
 
-1.pandas
+        1.pandas
 
-2.numpy
+        2.numpy
 
-3.matplotlib
+        3.matplotlib
 
-4.seaborn
+        4.seaborn
 
-5.scikit-learn
+        5.scikit-learn
 
 ⚙️ Workflow
 
-1.Load the dataset using pandas
+        1.Load the dataset using pandas
 
-2.Check for missing values and dataset shape
+        2.Check for missing values and dataset shape
 
-3.Encode the target variable using LabelEncoder
+        3.Encode the target variable using LabelEncoder
 
-4.Split the data into training and testing sets
+        4.Split the data into training and testing sets
 
-5.Train a Logistic Regression model
+        5.Train a Logistic Regression model
 
-6.Evaluate the model using:
+        6.Evaluate the model using:
 
-    -Accuracy Score
+            -Accuracy Score
 
-    -Classification Report
+            -Classification Report
 
-    -Confusion Matrix
+            -Confusion Matrix
 
-7.Visualize the confusion matrix using a heatmap
+        7.Visualize the confusion matrix using a heatmap
