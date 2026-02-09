@@ -35,3 +35,9 @@ Libraries Used
             -Confusion Matrix
 
         7.Visualize the confusion matrix using a heatmap
+
+Visualization
+
+        1.Confusion Matrix is displayed using a Seaborn heatmap
+
+        2.Helps in understanding correct and incorrect classifications
